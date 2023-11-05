@@ -1,0 +1,48 @@
+{
+  "cities": [
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "date": "2023-11-04T06:10:17.165Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99696982125357",
+        "lng": "0.027958156307152926"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Herencseny",
+      "country": "Hungary",
+      "date": "2023-11-04T16:55:11.044Z",
+      "notes": "Nice",
+      "position": {
+        "lat": "47.98617402639792",
+        "lng": "19.500677445104188"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Abu Zabad",
+      "country": "Sudan (the)",
+      "date": "2023-11-04T16:55:51.676Z",
+      "notes": "Nice",
+      "position": {
+        "lat": "12.706834379664032",
+        "lng": "29.50783649220389"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Saint-Sulpice-sur-Leze",
+      "country": "France",
+      "date": "2023-11-04T17:02:51.222Z",
+      "notes": "good",
+      "position": {
+        "lat": "43.326837618892625",
+        "lng": "1.3085380599416576"
+      },
+      "id": 4
+    }
+  ]
+}
